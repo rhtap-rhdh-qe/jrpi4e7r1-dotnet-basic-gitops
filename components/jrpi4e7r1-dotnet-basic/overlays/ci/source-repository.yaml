@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jrpi4e7r1-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jrpi4e7r1-dotnet-basic
